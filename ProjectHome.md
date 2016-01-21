@@ -1,0 +1,1 @@
+This is EC-CUBE AjaxZip3 Plugin.
